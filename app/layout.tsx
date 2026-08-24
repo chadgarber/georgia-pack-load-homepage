@@ -1,5 +1,26 @@
-şŠmş&yºŞÃòân¶«Ëñè™æë{Ü™ßì…éez{ì†X§{_?n)ÿ¦Ã©z¶­Š‰ç¢Ú^®h­µçZ[\Ü\HÈY]Y]HHœ›ÛH	Û™^	ÎÂš[\ÜÈ™X˜\×Ó™]YKÙZ\İÜİØ[Hœ›ÛH	Û™^Ù›ÛÙÛÛÙÛIÎÂš[\Ü	Ë‹ÙÛØ˜[Ë˜ÜÜÉÎÂ‚˜ÛÛœİÙZ\İØ[œÈHÙZ\İ
-È˜\šXX›Nˆ	ËKY›ÛYÙZ\İ\Ø[œÉËİXœÙ]ÎˆÉÛ][‰×HJNÂ˜ÛÛœİÜİØ[HÜİØ[
-È˜\šXX›Nˆ	ËKY›Û[ÜİØ[	ËİXœÙ]ÎˆÉÛ][‰×HJNÂ˜ÛÛœİ\Ü^HH™X˜\×Ó™]YJÂˆ˜\šXX›Nˆ	ËKY›ÛY\Ü^IËˆİXœÙ]ÎˆÉÛ][‰×KˆÙZYÚˆ	Í	ËŸJNÂ‚™^ÜÛÛœİY]Y]NˆY]Y]HHÂˆY]Y]P˜\ÙNˆ™]ÈT“
-	ÚÎ‹ËÙØ\XÚØ[™ØY˜ÛÛIÊKˆ]Nˆ	ÑÙ[Ü™ÚXHXÚÈ	ˆØY][H[İš[™ËXÚÚ[™È	ˆİÜ˜YÙIËˆ\ØÜš\[Ûˆ	ĞHÛ[Ûİ\ˆÙ[Ü™ÚXH[İ™Hİ\ÈÚ]Û™HØ[ˆÙ]H˜\İ[İš[™È\İ[X]Hœ›ÛHÙ[Ü™ÚXHXÚÈ	ˆØY‰ËˆÜ[‘Ü˜\ˆÂˆ]Nˆ	Ó[İ™HHÛX\Ø^HÙ[Ü™ÚXHXÚÈ	ˆØY	Ëˆ\ØÜš\[Ûˆ	ÓÛ™HÜ™]ËˆÛ™H[‹ˆÛ™HÛ[Ûİ[İ™K‰Ëˆ[XYÙ\ÎˆŞÈ\›ˆ	ËÛÙËœ™ÉËÚYˆMLÍ‹ZYÚˆLWKˆKŸNÂ‚™^ÜY˜][[˜İ[Ûˆ›Ûİ^[İ]
-ÈÚ[™[ˆNˆ™XYÛ›OÈÚ[™[ˆ™XXİ”™XXİ›ÙHOŠHÂˆ™]\›ˆ[[™ÏH™[ˆ›ÙHÛ\ÜÓ˜[YO^Ø	ÙÙZ\İØ[œË˜\šXX›_H	ÛÜİØ[˜\šXX›_H	Ù\Ü^K˜\šXX›_XOØÚ[™[ŸOØ›ÙOÚ[ÂŸB
+import type { Metadata } from 'next';
+import { Bebas_Neue, Geist, Oswald } from 'next/font/google';
+import './globals.css';
+
+const geistSans = Geist({ variable: '--font-geist-sans', subsets: ['latin'] });
+const oswald = Oswald({ variable: '--font-oswald', subsets: ['latin'] });
+const display = Bebas_Neue({
+  variable: '--font-display',
+  subsets: ['latin'],
+  weight: '400',
+});
+
+export const metadata: Metadata = {
+  metadataBase: new URL('https://gapackandload.com'),
+  title: 'Georgia Pack & Load | Atlanta Moving, Packing & Storage',
+  description: 'A smoother Georgia move starts with one call. Get a fast moving estimate from Georgia Pack & Load.',
+  openGraph: {
+    title: 'Move the smart way | Georgia Pack & Load',
+    description: 'One crew. One plan. One smooth move.',
+    images: [{ url: '/og.png', width: 1536, height: 1024 }],
+  },
+};
+
+export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
+  return <html lang="en"><body className={`${geistSans.variable} ${oswald.variable} ${display.variable}`}>{children}</body></html>;
+}

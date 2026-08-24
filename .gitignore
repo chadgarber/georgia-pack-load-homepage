@@ -1,1 +1,38 @@
-şŠmş&yºŞÃòân¶«Ëñè™æë{Ü™ßì…éez{ì†X§{_?n)ÿ¦Ã©z¶­Š‰ç¢Ú^®h­µçHÈ\[™[˜ÚY\Â‹Û›ÙWÛ[Ù[\Â‹Ëœœ‹œœŠ‚‹X\›‹Ê‚ˆKX\›‹Ü]Ú\ÂˆKX\›‹ÜYÚ[œÂˆKX\›‹Ü™[X\Ù\ÂˆKX\›‹İ™\œÚ[ÛœÂ‚ˆÈ\İ[™Â‹ØÛİ™\˜YÙB‚ˆÈ™^šœÂ‹Ë›™^Â‹Ëš[™^Â‹Ûİ]Â‚ˆÈZ\ØÂ‹‘×ÔİÜ™BŠ‹œ[B‚ˆÈXYÂ›œKYXYË›ÙÊ‚X\›‹YXYË›ÙÊ‚X\›‹Y\œ›Ü‹›ÙÊ‚‹œœKYXYË›ÙÊ‚‚ˆÈØØ[[š\›Û›Y[‹™[Š‚‚ˆÈ\Ş[Y[[™Ù[™\˜]Yš[\Â‹™\˜Ù[›™^Y[‹™Â‹Ù\İÂ‹ËÜ˜[™Û\‹Â‹Ûİ]]ËÂ‹İÛÜšËÂ
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/.vinext/
+/out/
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# local environment
+.env*
+
+# deployment and generated files
+.vercel
+next-env.d.ts
+/dist/
+/.wrangler/
+/outputs/
+/work/

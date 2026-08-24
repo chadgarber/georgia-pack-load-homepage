@@ -1,8 +1,61 @@
-þŠmþ&yºÞÃòân¶«Ëñè™æë{Ü™ßì…éez{ì†X§{_?n)ÿ¦Ã©z¶­Š‰ç¢Ú^®h­µçZ[\ÜÈÚ]\ÈHœ›ÛH	ÐÜ[˜ZKÜÚ]\Ë]š]K\YÚ[‰ÎÂš[\ÜZ[Ú[™ÜÜÈœ›ÛH	ÐZ[Ú[™ÜÜËÜÜÝÜÜÉÎÂš[\Üš[™^œ›ÛH	Ýš[™^	ÎÂš[\ÜÈYš[™PÛÛ™šYÈHœ›ÛH	Ýš]IÎÂš[\ÜÜÝ[™ÐÛÛ™šYÈœ›ÛH	Ë‹Ë›Ü[˜ZKÚÜÝ[™ËšœÛÛ‰ÎÂ‚˜ÛÛœÝÒUWÐÔ‘PUÔ—ÔPÑRÓT—ÑUPTÑWÒQBˆ	ÌLMNL	ÎÂ‚˜ÛÛœÝÈKŒˆHHÜÝ[™ÐÛÛ™šYÎÂ‚‹ËÈXXÓÔÈÙX]™[›ØÚÜÈ”Ñ]™[ËÛÈÛÙ^™]šY]ÜÈ™YYÛ[™È›ÜˆT‹‚˜ÛÛœÝ\ÐÛÙ^ÙX]™[Ø[™›ÞH›ØÙ\ÜË™[‹ÓÑVÔÐS‘“ÖOOH	ÜÙX]™[	ÎÂ‚˜ÛÛœÝØØ[š[™[™ÐÛÛ™šYÈHÂˆXZ[Žˆ	Ýš[™^ÜÙ\™\‹Ø\\›Ý]\‹Y[žIËˆÛÛ\]Xš[]WÙ›YÜÎˆÉÛ›ÙZœ×ØÛÛ\]	×KˆWÙ]X˜\Ù\ÎˆBˆÈÂˆÂˆš[™[™ÎˆKˆ]X˜\ÙWÛ˜[YNˆ	ÜÚ]KXÜ™X]Ü‹YIËˆ]X˜\ÙWÚYˆÒUWÐÔ‘PUÔ—ÔPÑRÓT—ÑUPTÑWÒQˆKˆBˆˆ×KˆŒ—ØXÚÙ]ÎˆŒ‚ˆÈÂˆÂˆš[™[™ÎˆŒ‹ˆXÚÙ]Û˜[YNˆ	ÜÚ]KXÜ™X]Ü‹\Œ‰ËˆKˆBˆˆ×KŸNÂ‚™^ÜY˜][Yš[™PÛÛ™šYÊ\Þ[˜È
+import { sites } from '@openai/sites-vite-plugin';
+import tailwindcss from '@tailwindcss/postcss';
+import vinext from 'vinext';
+import { defineConfig } from 'vite';
+import hostingConfig from './.openai/hosting.json';
 
-HOˆÂˆËÈÙY\Ü˜[™Û\ˆ[™Z[šY›\™HÝ]H›Ú™XÝ[ØØ[ˆ\ÙH\™H›Û‹\ÙXÜ™]ÛÛˆËÈÙ][™ÜÎÈ\XØ][Ûˆ[š\›Û›Y[™[Û™ÜÈ[ˆYÛ›Ü™Y™[Š˜š[\Ë‚ˆ›ØÙ\ÜË™[‹•ÔS‘ÓT—ÕÔ’UWÓÑÔÈÏÏH	Ù˜[ÙIÎÂˆ›ØÙ\ÜË™[‹•ÔS‘ÓT—ÓÑ×ÔUÏÏH	ËÜ˜[™Û\‹ÛÙÜÉÎÂˆ›ØÙ\ÜË™[‹“RS’Q“T‘WÔ‘QÒTÕ–WÔUÏÏH	ËÜ˜[™Û\‹Ü™YÚ\ÝžIÎÂ‚ˆËÈÜ˜[™Û\ˆÛ˜\ÚÝÈ]ÈÙÈ]Ú[HHÛÝY›\™HYÚ[ˆ\È[\ÜY‚ˆÛÛœÝÈÛÝY›\™HHH]ØZ][\Ü
-	ÐÛÝY›\™KÝš]K\YÚ[‰ÊNÂ‚ˆ™]\›ˆÂˆÜÜÎˆÈÜÝÜÜÎˆÈYÚ[œÎˆÝZ[Ú[™ÜÜÊ
-WHHKˆÙ\™\Žˆ\ÐÛÙ^ÙX]™[Ø[™›ÞˆÈÈØ]ÚˆÈ\ÙQœÑ]™[Îˆ˜[ÙK\ÙTÛ[™ÎˆYHHBˆˆ[™Yš[™YˆYÚ[œÎˆÂˆš[™^
+const SITE_CREATOR_PLACEHOLDER_DATABASE_ID =
+  '00000000-0000-4000-8000-000000000000';
 
-KˆÚ]\Ê
-KˆÛÝY›\™JÂˆš]Q[š\›Û›Y[ˆÈ˜[YNˆ	ÜœØÉËÚ[[š\›Û›Y[ÎˆÉÜÜÜ‰×HKˆÛÛ™šYÎˆØØ[š[™[™ÐÛÛ™šYËˆJKˆKˆNÂŸJNÂ
+const { d1, r2 } = hostingConfig;
+
+// macOS Seatbelt blocks FSEvents, so Codex previews need polling for HMR.
+const isCodexSeatbeltSandbox = process.env.CODEX_SANDBOX === 'seatbelt';
+
+const localBindingConfig = {
+  main: 'vinext/server/app-router-entry',
+  compatibility_flags: ['nodejs_compat'],
+  d1_databases: d1
+    ? [
+        {
+          binding: d1,
+          database_name: 'site-creator-d1',
+          database_id: SITE_CREATOR_PLACEHOLDER_DATABASE_ID,
+        },
+      ]
+    : [],
+  r2_buckets: r2
+    ? [
+        {
+          binding: r2,
+          bucket_name: 'site-creator-r2',
+        },
+      ]
+    : [],
+};
+
+export default defineConfig(async () => {
+  // Keep Wrangler and Miniflare state project-local. These are non-secret tool
+  // settings; application environment belongs in ignored `.env*` files.
+  process.env.WRANGLER_WRITE_LOGS ??= 'false';
+  process.env.WRANGLER_LOG_PATH ??= '.wrangler/logs';
+  process.env.MINIFLARE_REGISTRY_PATH ??= '.wrangler/registry';
+
+  // Wrangler snapshots its log path while the Cloudflare plugin is imported.
+  const { cloudflare } = await import('@cloudflare/vite-plugin');
+
+  return {
+    css: { postcss: { plugins: [tailwindcss()] } },
+    server: isCodexSeatbeltSandbox
+      ? { watch: { useFsEvents: false, usePolling: true } }
+      : undefined,
+    plugins: [
+      vinext(),
+      sites(),
+      cloudflare({
+        viteEnvironment: { name: 'rsc', childEnvironments: ['ssr'] },
+        config: localBindingConfig,
+      }),
+    ],
+  };
+});

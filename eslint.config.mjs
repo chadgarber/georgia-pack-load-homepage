@@ -1,1 +1,11 @@
-şŠmş&yºŞÃòân¶«Ëñè™æë{Ü™ßì…éez{ì†X§{_?n)ÿ¦Ã©z¶­Š‰ç¢Ú^®h­µçZ[\ÜÈYš[™PÛÛ™šYËÛØ˜[YÛ›Ü™\ÈHœ›ÛH	Ù\Û[ØÛÛ™šYÉÎÂš[\Ü™^š][Èœ›ÛH	Ù\Û[XÛÛ™šYË[™^ØÛÜ™K]ÙX‹]š][ÉÎÂš[\Ü™^Èœ›ÛH	Ù\Û[XÛÛ™šYË[™^İ\\ØÜš\	ÎÂ‚˜ÛÛœİ\Û[ÛÛ™šYÈHYš[™PÛÛ™šYÊÂˆ‹‹›™^š][Ëˆ‹‹›™^ËˆÛØ˜[YÛ›Ü™\ÊÉË›™^ÊŠ‰Ë	Ûİ]ÊŠ‰Ë	ØZ[ÊŠ‰Ë	Û™^Y[‹™É×JK—JNÂ‚™^ÜY˜][\Û[ÛÛ™šYÎÂ
+import { defineConfig, globalIgnores } from 'eslint/config';
+import nextVitals from 'eslint-config-next/core-web-vitals';
+import nextTs from 'eslint-config-next/typescript';
+
+const eslintConfig = defineConfig([
+  ...nextVitals,
+  ...nextTs,
+  globalIgnores(['.next/**', 'out/**', 'build/**', 'next-env.d.ts']),
+]);
+
+export default eslintConfig;

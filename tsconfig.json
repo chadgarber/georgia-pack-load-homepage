@@ -1,1 +1,35 @@
-şŠmş&yºŞÃòân¶«Ëñè™æë{Ü™ßì…éez{ì†X§{_?n)ÿ¦Ã©z¶­Š‰ç¢Ú^®h­µç^Âˆ˜ÛÛ\[\“Ü[ÛœÈˆÂˆ\™Ù]ˆ‘TÌŒMÈ‹ˆ›XˆˆÈ™ÛH‹™ÛKš]\˜X›H‹™\Û™^—Kˆ˜[İÒœÈˆYKˆœÚÚ\XÚXÚÈˆYKˆœİšXİˆYKˆ››Ñ[Z]ˆYKˆ™\Ó[Ù[R[\›ÜˆYKˆ›[Ù[Hˆ™\Û™^‹ˆ›[Ù[T™\ÛÛ][Ûˆˆ˜[™\ˆ‹ˆ\\ÈˆÈ››ÙH‹ÛİY›\™KİÛÜšÙ\œË]\\È—Kˆœ™\ÛÛ™RœÛÛ“[Ù[HˆYKˆš\ÛÛ]Y[Ù[\ÈˆYKˆšœŞˆœ™XXİZœŞ‹ˆš[˜Ü™[Y[[ˆYKˆœYÚ[œÈˆÂˆÂˆ›˜[YHˆ›™^‚ˆBˆKˆœ]ÈˆÂˆÊˆˆÈ‹‹Êˆ—BˆBˆKˆš[˜ÛYHˆÂˆ›™^Y[‹™È‹ˆŠŠ‹Ê‹È‹ˆŠŠ‹Ê‹Ş‹ˆ‹›™^İ\\ËÊŠ‹Ê‹È‹ˆ‹›™^Ù]‹İ\\ËÊŠ‹Ê‹È‹ˆŠŠ‹Ê‹›]È‚ˆKˆ™^ÛYHˆÈ››ÙWÛ[Ù[\È—BŸB
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "types": ["node", "@cloudflare/workers-types"],
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "react-jsx",
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@/*": ["./*"]
+    }
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts",
+    ".next/dev/types/**/*.ts",
+    "**/*.mts"
+  ],
+  "exclude": ["node_modules"]
+}

@@ -1,59 +1,219 @@
-şŠmş&yºŞÃòân¶«Ëñè™æë{Ü™ßì…éez{ì†X§{_?n)ÿ¦Ã©z¶­Š‰ç¢Ú^®h­µçIİ\ÙHÛY[	ÎÂ‚š[\ÜÈ›Ü›Q]™[\ÙTİ]HHœ›ÛH	Ü™XXİ	ÎÂ‚˜ÛÛœİÓ‘HH	ÍÍÌMNLLL	ÎÂ‚˜ÛÛœİÙ\šXÙ\ÈHÂˆÈ[X™\ˆ	ÌIË]Nˆ	Ô™\ÚY[X[[İš[™ÉË]Z[ˆ	ĞØ\™Y[[™[™ËˆÛ‹][YH\œš]˜[ËˆHÛ[Ûİ[İ™H›Üˆ[İH[™[İ\ˆ˜[Z[K‰Ë[XYÙNˆ	ËÚ[XYÙ\ËÜ™\ÚY[X[ZšœÉË[ˆ	ÑÙ[Ü™ÚXHXÚÈ[™ØY™\ÚY[X[[İš[™ÈXÚÉÈKˆÈ[X™\ˆ	Ì‰Ë]Nˆ	ĞÛÛ[Y\˜ÚX[[İš[™ÉË]Z[ˆ	ÓZ[š[Z^™HİÛ[YKˆX^[Z^™H›ÙXİ]š]KˆÙH[İ™H[İ\ˆ\Ú[™\ÜË‰Ë[XYÙNˆ	ËÚ[XYÙ\ËØÛÛ[Y\˜ÚX[ZšœÉË[ˆ	ÑÙ[Ü™ÚXHXÚÈ[™ØYÛÛ[Y\˜ÚX[[İš[™ÈX[IÈKˆÈ[X™\ˆ	ÌÉË]Nˆ	Ô›Ù™\ÜÚ[Û˜[XÚÚ[™ÉË]Z[ˆ	Óİ\ˆ^\XÚÙ\œÈ›İXİÚ]X]\œÈ[Üİ\Ú[™È]X[]HX]\šX[Ë‰Ë[XYÙNˆ	ËÚ[XYÙ\ËÜXÚÚ[™ËZšœÉË[ˆ	Ô›Ù™\ÜÚ[Û˜[XÚÚ[™ÈÙ\šXÙIÈKˆÈ[X™\ˆ	Ì	Ë]Nˆ	ÔÙXİ\™HİÜ˜YÙIË]Z[ˆ	ĞÛX[‹ˆÙXİ\™Kˆ[Ûš]Ü™YˆÚÜ]\›HÜˆÛ™Ë]\›HİÜ˜YÙHÛÛ][ÛœË‰Ë[XYÙNˆ	ËÚ[XYÙ\ËÜİÜ˜YÙKZšœÉË[ˆ	ÔÙXİ\™HİÜ˜YÙHØ\™Zİ\ÙIÈK—NÂ‚˜ÛÛœİÙ\šXÙP\™X\ÈHÉĞ][IË	Ôİ]Ø[™YIË	Ğ[\™]IË	Ô›ÜİÙ[	Ë	ÓX\šY]IË	ÑXØ]\‰Ë	Õ˜[ÜİIË	ÕØ^XÜ›ÜÜÉ×NÂ‚™[˜İ[Ûˆ\œ›İÊ
-HÈ™]\›ˆÜ[ˆ\šXKZY[HYH¸¡¥ÏÜÜ[ÈB‚™[˜İ[Ûˆ\İ[X]PØ\™
+'use client';
 
-HÂˆÛÛœİÜÙ[Ù]Ù[HH\ÙTİ]J˜[ÙJNÂ‚ˆ[˜İ[ÛˆİX›Z]\İ[X]J]™[ˆ›Ü›Q]™[S›Ü›Q[[Y[ŠHÂˆ]™[œ™]™[Y˜][
+import { FormEvent, useState } from 'react';
 
-NÂˆÛÛœİ›Ü›HH]™[˜İ\œ™[\™Ù]ÂˆYˆ
-Y›Ü›K˜ÚXÚÕ˜[Y]J
-JHÈ›Ü›Kœ™\Ü˜[Y]J
-NÈ™]\›ÈBˆÙ]Ù[
-YJNÂˆ›Ü›Kœ™\Ù]
+const PHONE = '770-458-2510';
 
-NÂˆB‚ˆ™]\›ˆ
-ˆ]ˆÛ\ÜÓ˜[YOH™\İ[X]KXØ\™ˆYH™\İ[X]H‚ˆ]ˆÛ\ÜÓ˜[YOHXÚÙ]\İXˆˆ\šXKZY[HYHÜ[‘\İˆNNMOÜÜ[Ù]‚ˆ”™XYHÈ[İ™OÏÚ‚ˆÛ\ÜÓ˜[YOH™\İ[X]K\İXšXY‘˜\İ\İØ^HÈÙ]İ\YÜ‚ˆHÛ\ÜÓ˜[YOH™\İ[X]KXØ[ˆ™Y^Ø[‰ÔÓ‘Kœ™\XÙP[
-	ËIË	ÉÊ_XO¸¦#ˆÜ[Ø[ÔÓ‘_OÜÜ[ØO‚ˆÜÙ[È
-ˆ]ˆÛ\ÜÓ˜[YOH™\İ[X]K\İXØÙ\ÜÈˆ›ÛOHœİ]\È‚ˆÜ[¸§$ÏÜÜ[‚ˆ]İ›Û™Ï–[İI˜\ÜÎÜ™HÛˆH\İÜİ›Û™ÏH[İ™HÛÛÜ™[˜]ÜˆÚ[Ø[[İHÚÜKÜÙ]‚ˆ]Ûˆ\OH˜]ÛˆˆÛÛXÚÏ^Ê
-HOˆÙ]Ù[
-˜[ÙJ_O”İ\[›İ\ˆ\İ[X]OØ]Û‚ˆÙ]‚ˆ
-Hˆ
-ˆ›Ü›HÛ”İX›Z]^ÜİX›Z]\İ[X]_O‚ˆ]ˆÛ\ÜÓ˜[YOH™›Ü›KY]šY\ˆÜ[“Üˆ™\]Y\İHœ™YH\İ[X]OÜÜ[Ù]‚ˆ]ˆÛ\ÜÓ˜[YOH™›Ü›K\›İÈ›Ü›K\›İËK]™YH‚ˆX™[Ü[“˜[YOÜÜ[[œ]\šXK[X™[H“˜[YHˆ˜[YOH›˜[YHˆ]]ĞÛÛ\]OH›˜[YHˆ™\]Z\™YÏÛX™[‚ˆX™[Ü[”Û™OÜÜ[[œ]\šXK[X™[H”Û™Hˆ˜[YOHœÛ™Hˆ\OH[ˆ]]ĞÛÛ\]OH[ˆ™\]Z\™YÏÛX™[‚ˆX™[Ü[“[İš[™Èœ›ÛH’TÜÜ[[œ]\šXK[X™[H“[İš[™Èœ›ÛH’Tˆ˜[YOH™œ›ÛHˆ]]ĞÛÛ\]OHœÜİ[XÛÙHˆ™\]Z\™YÏÛX™[‚ˆÙ]‚ˆ]ÛˆÛ\ÜÓ˜[YOH™\İ[X]K\İX›Z]ˆ\OHœİX›Z]‘Ù]^Hœ™YH\İ[X]OØ]Û‚ˆÛ\ÜÓ˜[YOH™š[™K\š[“›È™\Üİ\™Kˆ›ÈY[ˆ™Y\ËÜ‚ˆÙ›Ü›O‚ˆ
-_BˆÙ]‚ˆ
-NÂŸB‚™[˜İ[Ûˆ]Z[Y\İ[X]Q›Ü›J
-HÂˆÛÛœİÜÙ[Ù]Ù[HH\ÙTİ]J˜[ÙJNÂ‚ˆ[˜İ[ÛˆİX›Z]
-]™[ˆ›Ü›Q]™[S›Ü›Q[[Y[ŠHÂˆ]™[œ™]™[Y˜][
+const services = [
+  { number: '01', title: 'Residential moving', detail: 'Careful handling. On-time arrivals. A smooth move for you and your family.', image: '/images/residential-hd.jpg', alt: 'Georgia Pack and Load residential moving truck' },
+  { number: '02', title: 'Commercial moving', detail: 'Minimize downtime. Maximize productivity. We move your business.', image: '/images/commercial-hd.jpg', alt: 'Georgia Pack and Load commercial moving team' },
+  { number: '03', title: 'Professional packing', detail: 'Our expert packers protect what matters most using quality materials.', image: '/images/packing-hd.jpg', alt: 'Professional packing service' },
+  { number: '04', title: 'Secure storage', detail: 'Clean. Secure. Monitored. Short-term or long-term storage solutions.', image: '/images/storage-hd.jpg', alt: 'Secure storage warehouse' },
+];
 
-NÂˆÛÛœİ›Ü›HH]™[˜İ\œ™[\™Ù]ÂˆYˆ
-Y›Ü›K˜ÚXÚÕ˜[Y]J
-JHÈ›Ü›Kœ™\Ü˜[Y]J
-NÈ™]\›ÈBˆÙ]Ù[
-YJNÂˆ›Ü›Kœ™\Ù]
+const serviceAreas = ['Atlanta', 'Suwanee', 'Alpharetta', 'Roswell', 'Marietta', 'Decatur', 'Valdosta', 'Waycross'];
 
-NÂˆB‚ˆYˆ
-Ù[
-HÂˆ™]\›ˆ
-ˆ]ˆÛ\ÜÓ˜[YOH™š[˜[\İXØÙ\ÜÈˆ›ÛOHœİ]\È‚ˆÜ[¸§$ÏÜÜ[‚ˆÏ‘\İ[X]H™\]Y\İ™XÙZ]™YÚÏ‚ˆH[İ™HÛÛÜ™[˜]ÜˆÚ[Ø[ÈX\›ˆH]Z[È[™Ú]™H[İHHİ˜ZYÚ›ÜØ\™\İ[X]KÜ‚ˆ]Ûˆ\OH˜]ÛˆˆÛÛXÚÏ^Ê
-HOˆÙ]Ù[
-˜[ÙJ_O”Ù[™[›İ\ˆ™\]Y\İØ]Û‚ˆÙ]‚ˆ
-NÂˆB‚ˆ™]\›ˆ
-ˆ›Ü›HÛ\ÜÓ˜[YOH™š[˜[Y›Ü›HˆÛ”İX›Z]^ÜİX›Z]O‚ˆ]ˆÛ\ÜÓ˜[YOH™šY[\Z\ˆ‚ˆX™[–[İ\ˆ˜[YO[œ]˜[YOH›˜[YHˆ]]ĞÛÛ\]OH›˜[YHˆ™\]Z\™YÏÛX™[‚ˆX™[”Û™H[X™\[œ]˜[YOHœÛ™Hˆ\OH[ˆ]]ĞÛÛ\]OH[ˆ™\]Z\™YÏÛX™[‚ˆÙ]‚ˆ]ˆÛ\ÜÓ˜[YOH™šY[\Z\ˆ‚ˆX™[“[İš[™Èœ›ÛO[œ]˜[YOH™œ›ÛHˆ]]ĞÛÛ\]OHœÜİ[XÛÙHˆXÙZÛ\HÚ]HÜˆ’Tˆ™\]Z\™YÏÛX™[‚ˆX™[“[İš[™ÈÏ[œ]˜[YOHÈˆ]]ĞÛÛ\]OHœÜİ[XÛÙHˆXÙZÛ\HÚ]HÜˆ’Tˆ™\]Z\™YÏÛX™[‚ˆÙ]‚ˆ]ˆÛ\ÜÓ˜[YOH™šY[\Z\ˆ‚ˆX™[“[İ™H]O[œ]˜[YOH™]Hˆ\OH™]Hˆ™\]Z\™YÏÛX™[‚ˆX™[“[İ™H\OÙ[Xİ˜[YOH\HˆY˜][˜[YOH”™\ÚY[X[Ü[Û”™\ÚY[X[ÛÜ[ÛÜ[ÛÛÛ[Y\˜ÚX[ÛÜ[ÛÜ[Û”XÚÚ[™ÈÛ›OÛÜ[ÛÜ[Û”İÜ˜YÙOÛÜ[ÛÜÙ[XİÛX™[‚ˆÙ]‚ˆX™[[][™ÈÙHÚİ[Û›İÏÏ^\™XH˜[YOH™]Z[Èˆ›İÜÏ^ÌßHXÙZÛ\H™Y›ÛÛ\ËİZ\œËÜXÚX[][\ø )ˆˆÏÛX™[‚ˆ]ÛˆÛ\ÜÓ˜[YOH™\šËX]Ûˆˆ\OHœİX›Z]”İ\^H\İ[X]H\œ›İÈÏØ]Û‚ˆHİX›Z][™Ë[İHYÜ™YH]İ\ˆ[İ™HX[HX^HÛÛXİ[İHX›İ]\È™\]Y\İÜ‚ˆÙ›Ü›O‚ˆ
-NÂŸB‚™^ÜY˜][[˜İ[ÛˆÛYJ
-HÂˆÛÛœİÛY[SÜ[‹Ù]Y[SÜ[—HH\ÙTİ]J˜[ÙJNÂˆÛÛœİÛ™R™YˆH[‰ÔÓ‘Kœ™\XÙP[
-	ËIË	ÉÊ_XÂ‚ˆ™]\›ˆ
-ˆXZ[‚ˆXY\ˆÛ\ÜÓ˜[YOHœÚ]KZXY\ˆ‚ˆH™YHˆİÜˆÛ\ÜÓ˜[YOH˜œ˜[™ˆ\šXK[X™[H‘Ù[Ü™ÚXHXÚÈ[™ØYÛYH[YÈÜ˜ÏH‹Ú[XYÙ\ËÛÙÛËÙXœˆ[H‘Ù[Ü™ÚXHXÚÈ	ˆØYˆÏØO‚ˆ˜]ˆÛ\ÜÓ˜[YO^ÛY[SÜ[ˆÈ	Û˜]‹[[šÜÈ˜]‹[[šÜËK[Ü[‰Èˆ	Û˜]‹[[šÜÉßH\šXK[X™[H“XZ[ˆ˜]šYØ][Ûˆ‚ˆH™YHˆÜÙ\šXÙ\ÈˆÛÛXÚÏ^Ê
-HOˆÙ]Y[SÜ[Š˜[ÙJ_O“[İš[™ÏØO‚ˆH™YHˆÜÙ\šXÙ\ÈˆÛÛXÚÏ^Ê
-HOˆÙ]Y[SÜ[Š˜[ÙJ_O”İÜ˜YÙOØO‚ˆH™YHˆÜÙ\šXÙ\ÈˆÛÛXÚÏ^Ê
-HOˆÙ]Y[SÜ[Š˜[ÙJ_O”XÚÚ[™ÏØO‚ˆH™YHˆÜİÜHˆÛÛXÚÏ^Ê
-HOˆÙ]Y[SÜ[Š˜[ÙJ_OX›İ]ØO‚ˆÛ˜]‚ˆHÛ\ÜÓ˜[YOHšXY\‹XØ[ˆ™Y^ÜÛ™R™YŸO¸¦#ˆ	›˜œÜÈØ[ÔÓ‘_OØO‚ˆ]ÛˆÛ\ÜÓ˜[YOH›Y[KX]Ûˆˆ\šXK[X™[H•ÙÙÛHY[Hˆ\šXKY^[™Y^ÛY[SÜ[ŸHÛÛXÚÏ^Ê
-HOˆÙ]Y[SÜ[Š[Y[SÜ[Š_OÜ[ˆÏÜ[ˆÏØ]Û‚ˆÚXY\‚‚ˆÙXİ[ÛˆÛ\ÜÓ˜[YOHš\›ÈˆYHÜ‚ˆ]ˆÛ\ÜÓ˜[YOHš\›ËZ[XYÙHˆ\šXKZY[HYHˆÏ‚ˆ]ˆÛ\ÜÓ˜[YOHš\›Ë]Ø\Úˆ\šXKZY[HYHˆÏ‚ˆ]ˆÛ\ÜÓ˜[YOHš\›Ë\Ù\šXÙK\İš\ˆ\šXK[X™[H“[İš[™ÈÙ\šXÙ\È‚ˆÜ[“ØØ[ÜÜ[Ü[“Û™ËY\İ[˜ÙOÜÜ[Ü[ÛÛ[Y\˜ÚX[ÜÜ[Ü[”XÚÚ[™ÏÜÜ[Ü[”İÜ˜YÙOÜÜ[‚ˆÙ]‚ˆ]ˆÛ\ÜÓ˜[YOHœ›İ]K[[™H›İ]K[[™KKZ\›Èˆ\šXKZY[HYHÜ[ˆÛ\ÜÓ˜[YOHœ›İ]KYİ›İ]KYİK[Û™HˆÏÜ[ˆÛ\ÜÓ˜[YOHœ›İ]KYİ›İ]KYİK]ÛÈˆÏÙ]‚ˆ]ˆÛ\ÜÓ˜[YOHš\›ËXÛÜH‚ˆÛ\ÜÓ˜[YOHšÚXÚÙ\ˆ][I˜\ÜÎÜÈ[İš[™ÈX[HÚ[˜ÙHNNMOÜ‚ˆOÜ[“[İ™HOÜÜ[Ü[”ÛX\ÜÜ[ÚO‚ˆÙ]‚ˆ\İ[X]PØ\™Ï‚ˆÜÙXİ[Û‚‚ˆÙXİ[ÛˆÛ\ÜÓ˜[YOHœİÜK]X\Ù\ˆˆYHœİÜH‚ˆ]ˆÛ\ÜÓ˜[YOHœİÜK\İÈ[YÈÜ˜ÏH‹Ú[XYÙ\ËÜİÜK[[İ™\œËZšœÈˆ[H‘Ù[Ü™ÚXHXÚÈ[™ØY[İ™\œÈ[™[™ÈÙ™ˆH›ŞˆÏÙ]‚ˆ]ˆÛ\ÜÓ˜[YOHœİÜKXÛÜH‚ˆ]ˆÛ\ÜÓ˜[YOHœİÜK\İ]İ›Û™ÏŒÌ
-ÏÜİ›Û™Ï–YX\œÏœˆÏ›[İš[™ÏœˆÏ‘Ù[Ü™ÚXOœˆÏ™›ÜØ\™ÚÙ]‚ˆ]ˆÛ\ÜÓ˜[YOH\İ\›İÈÜ[“ØØ[œˆÏœ[ÜOÜÜ[Ü[“XÙ[œÙY	˜[\ÏœˆÏš[œİ\™YÜÜ[Ü[“Û™HX[OœˆÏœİ\Èš[š\ÚÜÜ[Ù]‚ˆHÛ\ÜÓ˜[YOHœİÜKXØ[ˆ™Y^ÜÛ™R™YŸO¸¦#ˆ	›˜œÜÈ[ÈÈH[İ™\ØO‚ˆÙ]‚ˆ]ˆÛ\ÜÓ˜[YOHœİÜK\ÚYHšYİ\™O[YÈÜ˜ÏH‹Ú[XYÙ\ËÜXÚÚ[™ËZšœÈˆ[H”›Ù™\ÜÚ[Û˜[XÚÚ[™ÈˆÏÙšYİ\™OšYİ\™O[YÈÜ˜ÏH‹Ú[XYÙ\ËÜİÜ˜YÙKZšœÈˆ[H”ÙXİ\™HİÜ˜YÙHØ\™Zİ\ÙHˆÏÙšYİ\™OÙ]‚ˆÜÙXİ[Û‚‚ˆÙXİ[ÛˆÛ\ÜÓ˜[YOHœÙ\šXÙ\ÈˆYHœÙ\šXÙ\È‚ˆ]ˆÛ\ÜÓ˜[YOHœÙXİ[Û‹ZXY[™È‚ˆÛ\ÜÓ˜[YOHšÚXÚÙ\ˆ“Û™HX[H›ÜˆHÚÛH[İ™OÜ‚ˆ‘]™\][™ÏœˆÏ[İ\ˆ[İ™OœˆÏ[O›™YYËÙ[OÚ‚ˆ”XÚÈÚ][İH™YYˆÙI˜\ÜÎÛXZÙH]™Y[ZÙHÛ™HÙX[[\ÜÈ[‹Ü‚ˆÙ]‚ˆ]ˆÛ\ÜÓ˜[YOHœÙ\šXÙK[\İ‚ˆÜÙ\šXÙ\Ë›X\
+function Arrow() { return <span aria-hidden="true">â†—</span>; }
 
-Ù\šXÙJHOˆ
-ˆHÛ\ÜÓ˜[YOHœÙ\šXÙK\›İÈˆ™YHˆÙš[˜[Y\İ[X]HˆÙ^O^ÜÙ\šXÙK›[X™\ŸO‚ˆÜ[ˆÛ\ÜÓ˜[YOHœÙ\šXÙK[[X™\ˆÜÙ\šXÙK›[X™\ŸOÜÜ[‚ˆ]ˆÛ\ÜÓ˜[YOHœÙ\šXÙK[˜[YHÏÜÙ\šXÙK]_OÚÏÜÙ\šXÙK™]Z[OÜÙ]‚ˆ]ˆÛ\ÜÓ˜[YOHœÙ\šXÙKZ[XYÙH[YÈÜ˜Ï^ÜÙ\šXÙKš[XYÙ_H[^ÜÙ\šXÙK˜[HÏÙ]‚ˆÜ[ˆÛ\ÜÓ˜[YOHœÙ\šXÙKX\œ›İÈ\œ›İÈÏÜÜ[‚ˆØO‚ˆ
-J_BˆÙ]‚ˆÜÙXİ[Û‚‚ˆÙXİ[ÛˆÛ\ÜÓ˜[YOHœ›ØÙ\ÜÈˆYHœ›ØÙ\ÜÈ‚ˆ]ˆÛ\ÜÓ˜[YOHœÙXİ[Û‹ZXY[™ÈÙXİ[Û‹ZXY[™ËKXÙ[\ˆ‚ˆÛ\ÜÓ˜[YOHšÚXÚÙ\ˆ“›ÈİY\ÜİÛÜšËˆ›È[™Ù™œËÜ‚ˆ“Û™HØ[œˆÏ“Û™H[‹œˆÏ“Û™HÛ[ÛİœˆÏ›[İ™KÚ‚ˆÙ]‚ˆ]ˆÛ\ÜÓ˜[YOHœ›ØÙ\ÜË\›İ]Hˆ\šXKZY[HYHÜ[ˆÏÜ[ˆÏÜ[ˆÏÙ]‚ˆ]ˆÛ\ÜÓ˜[YOHœ›ØÙ\ÜËYÜšY‚ˆ\XÛOİ›Û™ÏŒOÜİ›Û™ÏÏØ[ÚÏ•[ÈÚ]H™X[Ù[Ü™ÚXH[İ™HÛÛÜ™[˜]ÜˆÚÈ\İ[œÈ™Y›Ü™H^H\İ[X]KÜØ\XÛO‚ˆ\XÛOİ›Û™ÏŒÜİ›Û™ÏÏ”[ÚÏ‘Ù]HÛX\ˆØÛÜKÛ™\İ[Z[™È[™HÜ™]È]Û›İÜÈÚ][İ™H^H™\]Z\™\ËÜØ\XÛO‚ˆ\XÛOİ›Û™ÏŒÏÜİ›Û™ÏÏ“[İ™OÚÏ•ÙHXÚË›İXİØY[™[]™\¸ %Ú]İ]\ÜÚ[™È[İHœ›ÛHX[HÈX[KÜØ\XÛO‚ˆÙ]‚ˆHÛ\ÜÓ˜[YOHœš[X\KX]Ûˆ›ØÙ\ÜËX]Ûˆˆ™Y^Ø[‰ÔÓ‘Kœ™\XÙP[
-	ËIË	ÉÊ_XO”İ\Ú]HØ[\œ›İÈÏØO‚ˆÜÙXİ[Û‚‚ˆÙXİ[ÛˆÛ\ÜÓ˜[YOH\İ[[ÛšX[‚ˆÛ\ÜÓ˜[YOHšÚXÚÙ\ˆÚXÚÙ\‹K[YÚ‘œ›ÛHHÙ[Ü™ÚXHXÚÈ	˜[\ÈØYİ\İÛY\Ü‚ˆ›ØÚÜ][İO¸ 'œ›ÛH[š]X[ÛÛXİÈš[š\ÚHØ\È^™[Y[H[\™\ÜÙYHH›Ù™\ÜÚ[Û˜[\ÛKÛİ\\ŞH[™\™ÛÜšË¸ 'OØ›ØÚÜ][İO‚ˆ]ˆÛ\ÜÓ˜[YOH\İ[[ÛšX[[Y]HÜ[ˆÛ\ÜÓ˜[YOHœİ\œÈˆ\šXK[X™[H‘š]™Hİ\ˆ™]šY]È¸¦!x¦!x¦!x¦!x¦!OÜÜ[Ü[ŒL	HÜÚ]]™H^\šY[˜ÙOÜÜ[H™YHšÎ‹ËÙË˜ÛËÚÙÜËÓ”Ùœˆˆ\™Ù]H—Ø›[šÈˆ™[H››Ü™Y™\œ™\ˆ”™XYÛÛÙÛH™]šY]ÜÈ\œ›İÈÏØOÙ]‚ˆÜÙXİ[Û‚‚ˆÙXİ[ÛˆÛ\ÜÓ˜[YOH˜\™X\ÈˆYH˜\™X\È‚ˆ]ˆÛ\ÜÓ˜[YOH˜\™X\ËXÛÜH‚ˆÛ\ÜÓ˜[YOHšÚXÚÙ\ˆ‘Ù[Ü™ÚXH\ÈÛYOÜ‚ˆXÜ›ÜÜÈHİ]KœˆÏ\›İ[™HÛÜ›™\‹Ú‚ˆ‘œ›ÛHY]›È][HÈÛİ]Ù[Ü™ÚXx %[™Ú\™]™\ˆ[İ\ˆ™^Ú\\ˆZÙ\È[İKÜ‚ˆ]ˆÛ\ÜÓ˜[YOH˜\™XK\[ÈÜÙ\šXÙP\™X\Ë›X\
+function EstimateCard() {
+  const [sent, setSent] = useState(false);
 
-\™XJHOˆÜ[ˆÙ^O^Ø\™X_OØ\™X_OÜÜ[Š_OÙ]‚ˆHÛ\ÜÓ˜[YOH^[[šÈˆ™YHˆÙš[˜[Y\İ[X]HÚXÚÈ[İ\ˆ›İ]H\œ›İÈÏØO‚ˆÙ]‚ˆ]ˆÛ\ÜÓ˜[YOH™Ù[Ü™ÚXK[X\‚ˆ[YÈÜ˜ÏH‹Ú[XYÙ\ËÙÙ[Ü™ÚXK[X\œİ™Èˆ[H‘Ù[Ü™ÚXHÙ\šXÙH\™XHX\Ú]ÛÛ›™XİYØØ][ÛˆX\šÙ\œÈˆÏ‚ˆÙ]‚ˆÜÙXİ[Û‚‚ˆÙXİ[ÛˆÛ\ÜÓ˜[YOH™š[˜[XÛÛXİˆYH™š[˜[Y\İ[X]H‚ˆ]ˆÛ\ÜÓ˜[YOH˜Ø[\[™[‚ˆÛ\ÜÓ˜[YOHšÚXÚÙ\ˆÚXÚÙ\‹K[YÚ”™Y™\ˆÈ[ÏÏÜ‚ˆ”™XYHÚ[œˆÏ[İH\™KÚ‚ˆ”™X[[œİÙ\œÈœ›ÛHH™X[[İ™HÛÛÜ™[˜]Ü‹ˆ›ÈÛ™HX^™KÜ‚ˆH™Y^Ø[‰ÔÓ‘Kœ™\XÙP[
-	ËIË	ÉÊ_XOÔÓ‘_OØO‚ˆÜ[“[Û¸ $ÑœšH0­ÈŒSx $ÍNŒOÜÜ[‚ˆÙ]‚ˆ]ˆÛ\ÜÓ˜[YOH™›Ü›K\[™[‚ˆÛ\ÜÓ˜[YOHšÚXÚÙ\ˆ•Ø[[ˆ\İ[X]HÛ›[™OÏÜ‚ˆ•[\ÈX›İ][İ\ˆ[İ™KÚ‚ˆ]Z[Y\İ[X]Q›Ü›HÏ‚ˆÙ]‚ˆÜÙXİ[Û‚‚ˆ›Ûİ\ˆÛ\ÜÓ˜[YOHœÚ]KY›Ûİ\ˆ‚ˆ]ˆÛ\ÜÓ˜[YOH™›Ûİ\‹Xœ˜[™[YÈÜ˜ÏH‹Ú[XYÙ\ËÛÙÛËÙXœˆ[H‘Ù[Ü™ÚXHXÚÈ	ˆØYˆÏ‘Ù[Ü™ÚXH[İš[™ËXÚÚ[™È[™İÜ˜YÙx %[™YHÛ™HX[Hœ›ÛHİ\Èš[š\ÚÜH™Y^Ø[‰ÔÓ‘Kœ™\XÙP[
-	ËIË	ÉÊ_XOÔÓ‘_OØOÙ]‚ˆ]Ï“[İš[™ÏÚÏH™YHˆÜÙ\šXÙ\È”™\ÚY[X[ØOH™YHˆÜÙ\šXÙ\È“Û™È\İ[˜ÙOØOH™YHˆÜÙ\šXÙ\ÈÛÛ[Y\˜ÚX[ØOH™YHˆÜÙ\šXÙ\È”XÚÚ[™ÏØOÙ]‚ˆ]ÏÛÛ\[OÚÏH™YHˆÜİÜH•ÚH\ÏØOH™YHˆØ\™X\È”Ù\šXÙH\™X\ÏØOH™YHˆÙš[˜[Y\İ[X]H‘œ™YH\İ[X]OØOH™YHšÎ‹ËÙØ\XÚØ[™ØY˜ÛÛKØ›ÙËÈ“[İš[™ÈYšXÙOØOÙ]‚ˆ]Ï“ØØ][ÛœÏÚÏ”İ]Ø[™YH0­ÈLÈ[˜Ú™ÌLÜ•Ø^XÜ›ÜÜÈ0­ÈÌMH[]™HİHÏÜ•˜[ÜİH0­ÈÌ˜[™]İİHÜÙ]‚ˆ]ˆÛ\ÜÓ˜[YOH™›Ûİ\‹X›İÛHÜ[°ªHŒˆÙ[Ü™ÚXHXÚÈ	˜[\ÈØY[İš[™È	˜[\ÈİÜ˜YÙOÜÜ[Ü[“XÙ[œÙY0­È[œİ\™Y0­È\™\\H™\šYšYYÜÜ[Ù]‚ˆÙ›Ûİ\‚‚ˆHÛ\ÜÓ˜[YOH›[Øš[KXØ[ˆ™Y^Ø[‰ÔÓ‘Kœ™\XÙP[
-	ËIË	ÉÊ_XOØ[›İÈ0­ÈÔÓ‘_OØO‚ˆÛXZ[‚ˆ
-NÂŸB
+  function submitEstimate(event: FormEvent<HTMLFormElement>) {
+    event.preventDefault();
+    const form = event.currentTarget;
+    if (!form.checkValidity()) { form.reportValidity(); return; }
+    setSent(true);
+    form.reset();
+  }
+
+  return (
+    <div className="estimate-card" id="estimate">
+      <div className="ticket-stub" aria-hidden="true"><span>Est. 1995</span></div>
+      <h2>Ready to move?</h2>
+      <p className="estimate-subhead">Fastest way to get started</p>
+      <a className="estimate-call" href={`tel:${PHONE.replaceAll('-', '')}`}>â˜ <span>Call {PHONE}</span></a>
+      {sent ? (
+        <div className="estimate-success" role="status">
+          <span>âœ“</span>
+          <div><strong>You&apos;re on the list.</strong><p>A move coordinator will call you shortly.</p></div>
+          <button type="button" onClick={() => setSent(false)}>Start another estimate</button>
+        </div>
+      ) : (
+        <form onSubmit={submitEstimate}>
+          <div className="form-divider"><span>Or request a free estimate</span></div>
+          <div className="form-row form-row--three">
+            <label><span>Name</span><input aria-label="Name" name="name" autoComplete="name" required /></label>
+            <label><span>Phone</span><input aria-label="Phone" name="phone" type="tel" autoComplete="tel" required /></label>
+            <label><span>Moving from ZIP</span><input aria-label="Moving from ZIP" name="from" autoComplete="postal-code" required /></label>
+          </div>
+          <button className="estimate-submit" type="submit">Get my free estimate</button>
+          <p className="fine-print">No pressure. No hidden fees.</p>
+        </form>
+      )}
+    </div>
+  );
+}
+
+function DetailedEstimateForm() {
+  const [sent, setSent] = useState(false);
+
+  function submit(event: FormEvent<HTMLFormElement>) {
+    event.preventDefault();
+    const form = event.currentTarget;
+    if (!form.checkValidity()) { form.reportValidity(); return; }
+    setSent(true);
+    form.reset();
+  }
+
+  if (sent) {
+    return (
+      <div className="final-success" role="status">
+        <span>âœ“</span>
+        <h3>Estimate request received.</h3>
+        <p>A move coordinator will call to learn the details and give you a straightforward estimate.</p>
+        <button type="button" onClick={() => setSent(false)}>Send another request</button>
+      </div>
+    );
+  }
+
+  return (
+    <form className="final-form" onSubmit={submit}>
+      <div className="field-pair">
+        <label>Your name<input name="name" autoComplete="name" required /></label>
+        <label>Phone number<input name="phone" type="tel" autoComplete="tel" required /></label>
+      </div>
+      <div className="field-pair">
+        <label>Moving from<input name="from" autoComplete="postal-code" placeholder="City or ZIP" required /></label>
+        <label>Moving to<input name="to" autoComplete="postal-code" placeholder="City or ZIP" required /></label>
+      </div>
+      <div className="field-pair">
+        <label>Move date<input name="date" type="date" required /></label>
+        <label>Move type<select name="type" defaultValue="Residential"><option>Residential</option><option>Commercial</option><option>Packing only</option><option>Storage</option></select></label>
+      </div>
+      <label>Anything we should know?<textarea name="details" rows={3} placeholder="Bedrooms, stairs, special itemsâ€¦" /></label>
+      <button className="dark-button" type="submit">Start my estimate <Arrow /></button>
+      <p>By submitting, you agree that our move team may contact you about this request.</p>
+    </form>
+  );
+}
+
+export default function Home() {
+  const [menuOpen, setMenuOpen] = useState(false);
+  const phoneHref = `tel:${PHONE.replaceAll('-', '')}`;
+
+  return (
+    <main>
+      <header className="site-header">
+        <a href="#top" className="brand" aria-label="Georgia Pack and Load home"><img src="/images/logo.webp" alt="Georgia Pack & Load" /></a>
+        <nav className={menuOpen ? 'nav-links nav-links--open' : 'nav-links'} aria-label="Main navigation">
+          <a href="#services" onClick={() => setMenuOpen(false)}>Moving</a>
+          <a href="#services" onClick={() => setMenuOpen(false)}>Storage</a>
+          <a href="#services" onClick={() => setMenuOpen(false)}>Packing</a>
+          <a href="#story" onClick={() => setMenuOpen(false)}>About</a>
+        </nav>
+        <a className="header-call" href={phoneHref}>â˜ &nbsp; Call {PHONE}</a>
+        <button className="menu-button" aria-label="Toggle menu" aria-expanded={menuOpen} onClick={() => setMenuOpen(!menuOpen)}><span /><span /></button>
+      </header>
+
+      <section className="hero" id="top">
+        <div className="hero-image" aria-hidden="true" />
+        <div className="hero-wash" aria-hidden="true" />
+        <div className="hero-service-strip" aria-label="Moving services">
+          <span>Local</span><span>Long-distance</span><span>Commercial</span><span>Packing</span><span>Storage</span>
+        </div>
+        <div className="route-line route-line--hero" aria-hidden="true"><span className="route-dot route-dot--one" /><span className="route-dot route-dot--two" /></div>
+        <div className="hero-copy">
+          <p className="kicker">Atlanta&apos;s moving team since 1995</p>
+          <h1><span>Move the</span><span>Smart</span></h1>
+        </div>
+        <EstimateCard />
+      </section>
+
+      <section className="story-teaser" id="story">
+        <div className="story-photo"><img src="/images/story-movers-hd.jpg" alt="Georgia Pack and Load movers handing off a box" /></div>
+        <div className="story-copy">
+          <div className="story-stat"><strong>30+</strong><h2>Years<br />moving<br />Georgia<br />forward.</h2></div>
+          <div className="trust-row"><span>Local<br />people</span><span>Licensed &amp;<br />insured</span><span>One team<br />start to finish</span></div>
+          <a className="story-call" href={phoneHref}>â˜ &nbsp; Talk to a mover</a>
+        </div>
+        <div className="story-side"><figure><img src="/images/packing-hd.jpg" alt="Professional packing" /></figure><figure><img src="/images/storage-hd.jpg" alt="Secure storage warehouse" /></figure></div>
+      </section>
+
+      <section className="services" id="services">
+        <div className="section-heading">
+          <p className="kicker">One team for the whole move</p>
+          <h2>Everything<br />your move<br /><em>needs.</em></h2>
+          <p>Pick what you need. We&apos;ll make it feel like one seamless plan.</p>
+        </div>
+        <div className="service-list">
+          {services.map((service) => (
+            <a className="service-row" href="#final-estimate" key={service.number}>
+              <span className="service-number">{service.number}</span>
+              <div className="service-name"><h3>{service.title}</h3><p>{service.detail}</p></div>
+              <div className="service-image"><img src={service.image} alt={service.alt} /></div>
+              <span className="service-arrow"><Arrow /></span>
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <section className="process" id="process">
+        <div className="section-heading section-heading--center">
+          <p className="kicker">No guesswork. No handoffs.</p>
+          <h2>One call.<br />One plan.<br />One smooth<br />move.</h2>
+        </div>
+        <div className="process-route" aria-hidden="true"><span /><span /><span /></div>
+        <div className="process-grid">
+          <article><strong>01</strong><h3>Call</h3><p>Talk with a real Georgia move coordinator who listens before they estimate.</p></article>
+          <article><strong>02</strong><h3>Plan</h3><p>Get a clear scope, honest timing and a crew that knows what move day requires.</p></article>
+          <article><strong>03</strong><h3>Move</h3><p>We pack, protect, load and deliverâ€”without passing you from team to team.</p></article>
+        </div>
+        <a className="primary-button process-button" href={`tel:${PHONE.replaceAll('-', '')}`}>Start with a call <Arrow /></a>
+      </section>
+
+      <section className="testimonial">
+        <p className="kicker kicker--light">From a Georgia Pack &amp; Load customer</p>
+        <blockquote>â€œFrom initial contact to finish, I was extremely impressed by the professionalism, courtesy and hard work.â€</blockquote>
+        <div className="testimonial-meta"><span className="stars" aria-label="Five star review">â˜…â˜…â˜…â˜…â˜…</span><span>100% positive experience</span><a href="https://g.co/kgs/NSddJr" target="_blank" rel="noreferrer">Read Google reviews <Arrow /></a></div>
+      </section>
+
+      <section className="areas" id="areas">
+        <div className="areas-copy">
+          <p className="kicker">Georgia is home</p>
+          <h2>Across the state.<br />Around the corner.</h2>
+          <p>From metro Atlanta to South Georgiaâ€”and wherever your next chapter takes you.</p>
+          <div className="area-pills">{serviceAreas.map((area) => <span key={area}>{area}</span>)}</div>
+          <a className="text-link" href="#final-estimate">Check your route <Arrow /></a>
+        </div>
+        <div className="georgia-map">
+          <img src="/images/georgia-map.svg" alt="Georgia service area map with connected location markers" />
+        </div>
+      </section>
+
+      <section className="final-contact" id="final-estimate">
+        <div className="call-panel">
+          <p className="kicker kicker--light">Prefer to talk?</p>
+          <h2>Ready when<br />you are.</h2>
+          <p>Real answers from a real move coordinator. No phone maze.</p>
+          <a href={`tel:${PHONE.replaceAll('-', '')}`}>{PHONE}</a>
+          <span>Monâ€“Fri Â· 8:00 AMâ€“5:00 PM</span>
+        </div>
+        <div className="form-panel">
+          <p className="kicker">Want an estimate online?</p>
+          <h2>Tell us about your move.</h2>
+          <DetailedEstimateForm />
+        </div>
+      </section>
+
+      <footer className="site-footer">
+        <div className="footer-brand"><img src="/images/logo.webp" alt="Georgia Pack & Load" /><p>Georgia moving, packing and storageâ€”handled by one team from start to finish.</p><a href={`tel:${PHONE.replaceAll('-', '')}`}>{PHONE}</a></div>
+        <div><h3>Moving</h3><a href="#services">Residential</a><a href="#services">Long distance</a><a href="#services">Commercial</a><a href="#services">Packing</a></div>
+        <div><h3>Company</h3><a href="#story">Why us</a><a href="#areas">Service areas</a><a href="#final-estimate">Free estimate</a><a href="https://gapackandload.com/blog/">Moving advice</a></div>
+        <div><h3>Locations</h3><p>Suwanee Â· 4103 Tench Rd #100</p><p>Waycross Â· 315 Plant Ave Ste C</p><p>Valdosta Â· 304 Janet St Ste B</p></div>
+        <div className="footer-bottom"><span>Â© 2026 Georgia Pack &amp; Load Moving &amp; Storage</span><span>Licensed Â· Insured Â· Third-party verified</span></div>
+      </footer>
+
+      <a className="mobile-call" href={`tel:${PHONE.replaceAll('-', '')}`}>Call now Â· {PHONE}</a>
+    </main>
+  );
+}

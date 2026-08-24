@@ -1,1 +1,5 @@
-юЉmю&yєЮГтвn¶«Лси™жл{Ь™Ям…йez{м†X§{_?n)я¦Г©z¶­Љ‰зўЪ^®h­µзZ[\Ьќ\HИ™^ЫЫ™љYИHњ›ЫH	Ы™^	ОВ‚ЫЫњЭ™^ЫЫ™љYО€™^ЫЫ™љYИHЯNВ‚™^ЬќY][™^ЫЫ™љYОВ
+import type { NextConfig } from 'next';
+
+const nextConfig: NextConfig = {};
+
+export default nextConfig;

@@ -1,14 +1,94 @@
-˛äm˛&y∫ﬁ√Ú‚n∂´ÀÒËôÊÎ{‹ôﬂÏÖÈez{ÏÜXß{_?n)ˇ¶√©z∂≠äâÁ¢⁄^Æh≠µÁH»Ÿ[‹ô⁄XHX⁄»	àÿY⁄]H^Xõ€⁄¬Çï\»ö[H\»H\òXõH\⁄Y€à[ô[\[Y[ù][€àY[[‹ûHõ‹à]ô\ûHYŸH]õ€›‹»H\õ›ôY€Y\YŸKàô]»YŸ\»⁄›[ôY[ZŸH\ùŸà\»^X›⁄]Kõ›ZŸHŸ\\ò]H[\]\ÀÇÇà»»H\õ›ôYö\›X[€›\òŸBÇãHX\›\àôYô\ô[òŸNàãã€›]]ÀŸŸ[‹ô⁄XK\X⁄À[ÿYX€€\]KZ€Y\YŸK]åÀúôÿãHHôYô\ô[òŸH€€ùõ€»€€\‹⁄][€ãö\›X[Y\ò\ò⁄KŸX›[€àö]K\Hÿÿ[K[XYŸ\ûH›[K[ô›ô\ò[[€ŸÇãHôYô\ô[òŸH‹õ‹»\ôHõ‹àö\›X[X]⁄[ô»€õKàô]ô\à⁄\H‹õ‹ZŸ[àúõ€HHù[\YŸH[ÿ⁄›\\»HõŸX›[€à[XYŸN»‹ŸH€X[‹õ‹»ÿ]\ŸYH^[][€à]ÿ\»ö^Y€àH€Y\YŸKÇãHõŸX›[€à[XYŸ\»]\›ôHY⁄\ô\€€][€à\‹Ÿ]ÀYX[H]X\›⁄XŸHZ\à\ôŸ\›‘‘»\‹^H⁄^ôHõ‹àô][òHÿ‹ôY[úÀÇÇà»»úò[ôﬁ\›[BÇãH[]Nà‹ôX[HŸåYXYò\\àŸéåôMÿ[ö»ÃMÃNMò⁄\ò€ÿ[ÃåååÃåXôYÿŒçåô]]Y‹ò^HÕòÕòMåÿÇãH\ŸH‹ôX[Hò]\à[à\ôH⁄]Hõ‹àXZõ‹àY⁄ŸX›[€úÀà\ö»ŸX›[€ú»\ôH[[‹›XõX⁄Àõ›õYKXõX⁄ÀÇãHôY\»ô\Ÿ\ùôYõ‹àÿ[»»X›[€ãõ›]H[ô\À€X[⁄X⁄Ÿ\úÀ[ô\õ[ô\ÀX\öŸ\úÀ[ôŸ[X›Y[\\⁄\ÀÇãH\‹^H\Ÿ‹ò\NàôXò\»ô]YH
-KYõ€ùY\‹^X
-Hõ‹àHYŸH‹›\ã\›[HXY[ô\»[ôù[Y\ò[Àà\ŸH‹›ÿ[
-KYõ€ù[‹›ÿ[
-Hõ‹àò]öYÿ][€ãXô[Àù]€úÀ[ô€€ô[úŸY›\‹ù[ô»XY[ô‹Àà\ŸHŸZ\›õ‹àõŸH€‹H[ôŸ[‹ô⁄XH][X»õ‹à\›[[€öX[ÀÇãHXZõ‹à\‹^HXY[ô‹»\ôHô\ûH[Y⁄HòX⁄ŸY\\òÿ\ŸK[ô\›X[H\ŸH[ôKZZY⁄àé∏†$ÀéNôYÿ]]ôH]\à‹X⁄[ôÀ[ôÿÿÿ\⁄[€ò[ô\ùXÿ[ÿÿ[[ôÀà»õ›ô\XŸH[H⁄]‹ô[ò\ûHõ€ÿ[úÀ\Ÿ\öYà^ÇãH^\ôH\»›XùNà[ûHòYX[Y›\\à^\ôH€à‹ôX[H[ô⁄\ò€ÿ[ŸX›[€úÀà]õ⁄Y‹òYY[ùÀ€‹‹ﬁHÿ\ôÀõ›[ôYÿXTÀ\›[H[ô[À[ô^Ÿ\‹⁄]ôH⁄Y›‹ÀÇÇà»»YŸH€€\‹⁄][€ÇÇãHò]õ‹àY]‹öX[ù[]⁄Y‹ö^õ€ù[ò[ô»⁄]›õ€ô»õ‹ô\ú»[ô[Xô\ò]H\ﬁ[[Y]ûKÇãHHö\›X[ö]H[\õò]\»‹ôX[K⁄\ò€ÿ[ôY›Ÿ‹ò\K[ô›ùX›\ôY‹öYŸX›[€úÀÇãH\ŸH[à‹ò^H‹àôYù[\»»‹ôÿ[ö^ôH€€ù[ùàôYõ›]H[ô\»[ô›][ôYÿÿ][€à›»\ôHôX›\úö[ô»ö\›X[[›YúÀÇãH\⁄›‹^[›]»\ôH[ù[ù[€ò[H‹›\ã[ZŸH[ô[úŸKà[ÿö[H›X⁄‹»€X[õH⁄]›]‹⁄[ô»H\ôŸH\Kÿ[Yö\ú›’K‹à[XYŸH[\X›ÇãH[ù\òX›[€ú»›^Hô\›òZ[ôY[ôô[Z][Nà∏†$Ã‹ù]€àYùÀ[ô\õ[ôHô]ôX[À[XYŸHõ€€\»\õ›[ôKåÕx†$ÃKå\úõ›»€Y\À[ô€[€›[ò⁄‹àÿ‹õ€[ôÀàô]ô\à\ŸHõ›[òﬁH‹à⁄[[ZX⁄ﬁH[ö[X][€ãÇÇà»»[XYŸHõŸX›[€àY]ŸÇïH€Y\YŸHôXÿ[YH€€ùö[ò⁄[ô»€õHYù\àô\X⁄[ô»]ô\ûH›À\ô\€€][€à[ÿ⁄›\‹õ‹⁄]Hô\›‹ôYõŸX›[€à\‹Ÿ]ÇÇåKà›\ùúõ€HH\õ›ôYôYô\ô[òŸH‹õ‹»ô\Ÿ\ùôHH^X››XöôX›‹õ‹€€‹à[€Ÿ[ô€€\‹⁄][€ãÇåãà\ŸH[XYŸHô\›‹ò][€ãŸŸ[ô\ò][€à[àôX⁄\ŸK[ÿöôX›YY][ŸK^X⁄]Hÿ⁄⁄[ô»H€€\‹⁄][€à[ô[[\‹ù[ùÿöôX›ÀÇåÀà\⁄»õ‹àô[Z][H›‹ôX[\›X»€€[Y\ò⁄X[›Ÿ‹ò\Kô[Y]òXõHX]\öX[]Z[[ôõ»ÿ\[€ú»‹àÿ]\õX\ö‹ÀÇçàô\Ÿ\ùôHôY⁄\ùÀõX⁄»€‹ö›ŸX\ãÿ\õHÿ\ôõÿ\ô⁄]H[›ö[ô»ùX⁄‹À‹ôX[Hÿ\õ]\ö»⁄\ò€ÿ[[ôH][ùK—Ÿ[‹ô⁄XHŸ][ôÀÇçKàŸ[ô\ò]H⁄YHŸ\ùöXŸH\‹Ÿ]»ôX\àã⁄YKàŸ[ô\ò]H‹ùòZ]‹‹]X\ôH\‹Ÿ]»Xõ›ôHKL€àH⁄‹ù\à⁄YKÇçãàÿ]ôHHX\›\àõ€ãY\›ùX›]ô[K[àXZŸH[à‹[Z^ôYîQ»\õ›[ô]X[]Hõ‹àHŸXú⁄]KàŸY\ö[ò[ö[\»»õ›Y⁄HÃ8†$ÕÃ–à⁄[àòX›Xÿ[ÇçÀà\ŸHÿöôX›Yö]à€›ô\ò[ô[ôHÿöôX›\‹⁄][€ò»X]⁄H\õ›ôY‹õ‹àô]ô\à›ô]⁄[à[XYŸKÇéà[ú‹X›]ô\ûH‹õ‹]ôH]\⁄›‹[ô[ÿö[H⁄^ô\»ôYõ‹ôHXÿŸ\[ô»]ÇÇê›\úô[ù\‹Ÿ]X\[ôŒÇÇãH\õ»ùX⁄‹À–][ùNà⁄[XYŸ\À⁄\õÀX][ùKZöúÿ
-MÃÂÃLN
-BãH[›ô\à[ôŸôéà⁄[XYŸ\À‹›‹ûK[[›ô\úÀZöúÿ
-LÃÃpÂÃLNäBãHô\⁄Y[ùX[[›ôNà⁄[XYŸ\À‹ô\⁄Y[ùX[Zöúÿ
-åpÂÕÕMJBãH€€[Y\ò⁄X[[›ôNà⁄[XYŸ\Àÿ€€[Y\ò⁄X[Zöúÿ
-åÃÂÕÕNJBãHX⁄⁄[ôŒà⁄[XYŸ\À‹X⁄⁄[ôÀZöúÿ
-åå∞ÂÕÕå BãH›‹òYŸNà⁄[XYŸ\À‹›‹òYŸKZöúÿ
-åpÂÕÕMäBãHŸ[‹ô⁄XHõ›]HX\à⁄[XYŸ\ÀŸŸ[‹ô⁄XK[X\Zöúÿ
-LLépÂÃLŒL BÇïHö\›X[õ€\]\õà]€‹öŸYÇÇèàô\›‹ôH[ô\ÿÿ[H\»^X›\õ›ôYÿŸ[ôH[ù»H‹ö\‹›‹ôX[\›X»Y⁄\ô\€€][€àŸXú⁄]H[XYŸKàô\Ÿ\ùôHHÿ[YH›XöôX›XŸ[Y[ù‹õ‹ÿ[Y\òH[ô€KòX⁄Ÿ‹õ›[ôôYÿõX⁄Àÿ‹ôX[H[]K[ô\‹X›ò][ÀàYô[Y]òXõHö[ôH]Z[€õKàõ»ô]»ÿöôX›Àõ»ÿ\[€úÀõ»ÿ]\õX\öÀõ»õÿ][ô»^ÇÇï[àYÿŸ[ôK\‹X⁄YöX»[ùò\öX[ù»›X⁄\»H^X›ùX⁄‹»[ô][ùH⁄ﬁ[[ôK[›ô\ú»[ô[ô»ŸôàHõﬁŸ[ù\ôY›‹òYŸHZ\€K‹à[›ô\à\⁄[ô»H\H\‹[úŸ\ãÇÇà»»€€ùô\ú⁄[€ãYö\ú›ôZ]ö[‹ÇÇãHHö[X\ûHù\⁄[ô\‹»X›[€à\»H€ôHÿ[à\ŸHHÿ[õ€öXÿ[ù[Xô\àÕÃMNLçLL[ô[çÕÃNçLL]ô\û]⁄\ôKÇãHHXY\àÿ[ù]€àô[XZ[ú»õ€Z[ô[ù€à\⁄›‹à[ÿö[HŸ]»H\ú⁄\›[ùÿ[X›[€ãÇãH]ô\ûHXZõ‹àYŸH⁄›[Ÿôô\àõ›]ŒàH›õ€ô»ÿ[’H[ôH€‹ö⁄[ô»\›[X]Hõ‹õKÇãHÿ[€‹H⁄›[[\\⁄^ôHôX[[‹H[ô›»úöX›[€éà8†'ôX[[›ôH€€‹ô[ò]‹ã8†'H8†'õ»€ôHX^ôK8†'H8†'õ»ô\‹›\ôK8†'H[ô8†'õ»Y[àôY\À∏†'BãHõ‹õ\»]\›ò[Y]Kõ›öYH€X\à›XÿŸ\‹»›]\Àô\Ÿ\ùôHŸ^Xõÿ\ôXÿŸ\‹⁄Xö[]K[ô\ŸH›òZY⁄õ‹ùÿ\ôöY[ÀàH€Y\YŸH›\úô[ùH⁄[][]\»›XÿŸ\‹Ÿù[›XõZ\‹⁄[€é»€€õôX›Hÿ[YH€€\€ô[ù»»H⁄‹Ÿ[à[òõﬁ–‘ìHôYõ‹ôH][ò⁄ÇãHŸ\ùöXŸH[ôY]‹öX[[ö‹»⁄›[ò]\ò[HXY›ÿ\ôZ]\àH€ôHX›[€à‹àŸö[ò[Y\›[X]XÇÇà»»€Y\YŸH€‹úôX›[€ú»]]\›ÿ\úûHõ‹ùÿ\ôÇãHX]⁄H\õ›ôY[ÿ⁄›\8†&\»\ôŸH\‹^H\N»‹ô[ò\ûHõ€^€⁄‹»‹õ€ôÀÇãHŸY\H8†'Ã
-»YX\ú»[›ö[ô»Ÿ[‹ô⁄XHõ‹ùÿ\ô8†'Hÿ⁄›\\ôŸH[ôò[[òŸYÇãHHõÿŸ\‹»õ›]H[ôH]\›\‹»€X[õHô]ŸY[àÿ[[ô[ã⁄]ö\⁄XõHö[ô»X\öŸ\úÀ[ôHXY[ô»[ô»⁄]H⁄‹ùôY[ô\õ[ôKÇãHŸ\ùöXŸHò[Y\»›X⁄\»€ôÀY\›[òŸK€€[Y\ò⁄X[X⁄⁄[ôÀ[ô›‹òYŸH]\›ô[XZ[àôXYXõH[ôô]ô\àôHY[àôZ[ô[XYŸ\»‹à›ô\õ^\ÀÇãH\ŸHHŸôöX⁄X[Ÿ€»ö[H⁄]›][ù[ôÀ€\[ôÀ\›‹ù[€ã‹àò]^€€‹àYôôX›Àà⁄]ôHHõ€›\àŸ€»[õ›Y⁄‹ôX[HúôX][ô»õ€€HYÿZ[ú›õX⁄ÀÇãHõ€›\àY[ù\»]\›⁄]ù[H[ú⁄YHHõX⁄»õ€›\àò[ô⁄]Ÿ[ô\õ›\»‹[ôõ›€H‹X⁄[ôÀÇãHHŸ[‹ô⁄XHX\]\›\ŸHH‹ö\‹\õ›ôY›][ôH[ôõ›]H\ù€‹öÀô]ô\àHõ›Y⁄‘‘»€Y€€ãÇãHH\õ»]\›ô\Ÿ\ùôHHôYHùX⁄‹»€àHõÿY⁄]H][ùH⁄ﬁ[[ôH[ôŸ\›[àXX⁄ôYH^òH€€\‹⁄][€ãÇÇà»»ùZ[[ôPH⁄X⁄€\›õ‹à]ô\ûHYŸBÇãH€€\\ôHH]ôHYŸH⁄YHûH⁄YH⁄]]»\õ›ôY€€òŸ\[XYŸKÇãH€€ôö\õH]ô\ûHò\›\à\‹Ÿ]\»[õ›Y⁄ò]\ò[ô\€€][€àõ‹àô][òH\‹^KÇãH⁄X⁄»\⁄›‹Xõ][ô€ôH^[›]Œ»[ú‹X›[XYŸH‹õ‹»]XX⁄úôXZ‹⁄[ùÇãHô\öYûHò]öYÿ][€ã€ôH[ö‹À[ò⁄‹à[ö‹À›ô\à›]\ÀY[ùHôZ]ö[‹ãõ‹õHò[Y][€ã[ô›XÿŸ\‹»›]\ÀÇãH⁄X⁄»]\ôŸHXY[ô\»»õ›‹ò\‹à€\[ô^X›YKÇãH⁄X⁄»]õ€›\à€€ù[ùô[XZ[ú»[ù\ô[H€àHõX⁄»òX⁄Ÿ‹õ›[ôÇãHù[àHõŸX›[€àùZ[[ôô\€€ôH[€€ú€€H\úõ‹ú»[ôòZ[Y\‹Ÿ]ô\]Y\›ÀÇãHŸY\XX⁄€€\]YYŸH\»Hõÿ›\ŸY⁄]€€[Z][ôôYúô\⁄H€›\òŸHíT[àãã€›]]ÿÇÇà»»[\[Y[ù][€à€›\òŸHŸàù]ÇãH⁄\ôYõ€ù»[ôY]Y]Nà\€^[›]ùﬁãH⁄\ôYö\›X[ﬁ\›[H[ôô\‹€ú⁄]ôHôZ]ö[‹éà\Ÿ€ÿò[Àò‹‹ÿãH€Y\YŸH€€\€ô[ùÀÿ[À[ôõ‹õ\Œà\‹YŸKùﬁãH€€[Z]\›‹ûHÿ›[Y[ù»H€‹úôX›[€àŸ\]Y[òŸHúõ€HHö\ú›ùZ[õ›Y⁄H[XYŸHô\›‹ò][€ãÇ
+# Georgia Pack & Load Site Playbook
+
+This file is the durable design and implementation memory for every page that follows the approved homepage. New pages should feel like part of this exact site, not like separate templates.
+
+## The approved visual source
+
+- Master reference: `../outputs/georgia-pack-load-complete-homepage-v3.png`
+- The reference controls composition, visual hierarchy, section rhythm, type scale, imagery style, and overall mood.
+- Reference crops are for visual matching only. Never ship a crop taken from the full-page mockup as a production image; those small crops caused the pixelation that was fixed on the homepage.
+- Production images must be high-resolution assets, ideally at least twice their largest CSS display size for Retina screens.
+
+## Brand system
+
+- Palette: cream `#f1eadb`, paper `#f8f2e7`, ink `#171816`, charcoal `#222321`, red `#c8262d`, muted gray `#6c6a63`.
+- Use cream rather than pure white for major light sections. Dark sections are almost-black, not blue-black.
+- Red is reserved for calls to action, route lines, small kickers, underlines, markers, and selected emphasis.
+- Display typography: Bebas Neue (`--font-display`) for the huge poster-style headlines and numerals. Use Oswald (`--font-oswald`) for navigation, labels, buttons, and condensed supporting headings. Use Geist for body copy and Georgia italic for testimonials.
+- Major display headings are very tall, tightly tracked, uppercase, and usually use `line-height: .82‚Äì.98`, negative letter spacing, and occasional vertical scaling. Do not replace them with ordinary bold sans-serif text.
+- Texture is subtle: tiny radial-dot paper texture on cream and charcoal sections. Avoid gradients, glossy cards, rounded SaaS-style panels, and excessive shadows.
+
+## Page composition
+
+- Favor editorial, full-width horizontal bands with strong borders and deliberate asymmetry.
+- The visual rhythm alternates cream, charcoal, red, photography, and structured grid sections.
+- Use thin gray or red rules to organize content. Red route lines and outlined location dots are recurring visual motifs.
+- Desktop layouts are intentionally poster-like and dense. Mobile stacks cleanly without losing the large type, call-first CTA, or image impact.
+- Interactions stay restrained and premium: 2‚Äì3px button lifts, underline reveals, image zooms around 1.035‚Äì1.04, arrow slides, and smooth anchor scrolling. Never use bouncy or gimmicky animation.
+
+## Image production method
+
+The homepage became convincing only after replacing every low-resolution mockup crop with a restored HD production asset.
+
+1. Start from the approved reference crop to preserve the exact subject, crop, color mood, and composition.
+2. Use image restoration/generation in `precise-object-edit` mode, explicitly locking the composition and all important objects.
+3. Ask for premium photorealistic commercial photography, believable material detail, and no captions or watermarks.
+4. Preserve red shirts, black workwear, warm cardboard, white moving trucks, cream warmth, dark charcoal, and the Atlanta/Georgia setting.
+5. Generate wide service assets near 2,000px wide. Generate portrait/square assets above 1,100px on the shorter side.
+6. Save the master non-destructively, then make an optimized JPEG around quality 88 for the website. Keep final files to roughly 300‚Äì700KB when practical.
+7. Use `object-fit: cover` and tune `object-position` to match the approved crop. Never stretch an image.
+8. Inspect every crop live at desktop and mobile sizes before accepting it.
+
+Current HD asset mapping:
+
+- Hero trucks/Atlanta: `/images/hero-atlanta-hd.jpg` (1433√ó1098)
+- Mover handoff: `/images/story-movers-hd.jpg` (1331√ó1182)
+- Residential move: `/images/residential-hd.jpg` (2081√ó755)
+- Commercial move: `/images/commercial-hd.jpg` (2073√ó759)
+- Packing: `/images/packing-hd.jpg` (2062√ó763)
+- Storage: `/images/storage-hd.jpg` (2081√ó756)
+- Georgia route map: `/images/georgia-map-hd.jpg` (1129√ó1393)
+
+The visual prompt pattern that worked:
+
+> Restore and upscale this exact approved scene into a crisp, photorealistic high-resolution website image. Preserve the same subject placement, crop, camera angle, background, red/black/cream palette, and aspect ratio. Add believable fine detail only. No new objects, no captions, no watermark, no floating text.
+
+Then add scene-specific invariants such as the exact trucks and Atlanta skyline, movers handing off a box, centered storage aisle, or mover using a tape dispenser.
+
+## Conversion-first behavior
+
+- The primary business action is a phone call. Use the canonical number `770-458-2510` and `tel:7704582510` everywhere.
+- The header call button remains prominent on desktop. Mobile gets a persistent call action.
+- Every major page should offer both paths: a strong call CTA and a working estimate form.
+- Call copy should emphasize real people and low friction: ‚Äúreal move coordinator,‚Äù ‚Äúno phone maze,‚Äù ‚Äúno pressure,‚Äù and ‚Äúno hidden fees.‚Äù
+- Forms must validate, provide clear success states, preserve keyboard accessibility, and use straightforward fields. The homepage currently simulates successful submission; connect the same components to the chosen inbox/CRM before launch.
+- Service and editorial links should naturally lead toward either the phone action or `#final-estimate`.
+
+## Homepage corrections that must carry forward
+
+- Match the approved mockup‚Äôs large display type; ordinary bold text looks wrong.
+- Keep the ‚Äú30+ Years Moving Georgia Forward‚Äù lockup large and balanced.
+- The process route line must pass cleanly between Call and Plan, with visible ring markers, and the heading ends with a short red underline.
+- Service names such as Long-distance, Commercial, Packing, and Storage must remain readable and never be hidden behind images or overlays.
+- Use the official logo file without tinting, clipping, distortion, or faux color effects. Give the footer logo enough cream breathing room against black.
+- Footer menus must sit fully inside the black footer band with generous top and bottom spacing.
+- The Georgia map must use the crisp approved outline and route artwork, never a rough CSS polygon.
+- The hero must preserve the three trucks on the road with the Atlanta skyline and Westin Peachtree Plaza composition.
+
+## Build and QA checklist for every page
+
+- Compare the live page side by side with its approved concept image.
+- Confirm every raster asset has enough natural resolution for Retina display.
+- Check desktop, tablet, and phone layouts; inspect image crops at each breakpoint.
+- Verify navigation, phone links, anchor links, hover states, menu behavior, form validation, and success states.
+- Check that large headlines do not wrap or clip unexpectedly.
+- Check that footer content remains entirely on the black background.
+- Run the production build and resolve all console errors and failed asset requests.
+- Keep each completed page as a focused Git commit and refresh the source ZIP in `../outputs`.
+
+## Implementation source of truth
+
+- Shared fonts and metadata: `app/layout.tsx`
+- Shared visual system and responsive behavior: `app/globals.css`
+- Homepage components, calls, and forms: `app/page.tsx`
+- Commit history documents the correction sequence from the first build through the HD image restoration.

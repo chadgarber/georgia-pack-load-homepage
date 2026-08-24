@@ -1,1 +1,16 @@
-þŠmþ&yºÞÃòân¶«Ëñè™æë{Ü™ßì…éez{ì†X§{_?n)ÿ¦Ã©z¶­Š‰ç¢Ú^®h­µçOÝ™È[œÏHš‹ËÝÝÝËÌË›Ü™ËÌŒÜÝ™ÈˆšY]Ð›ÞHŒNHMÌˆ›ÛOHš[YÈˆ\šXK[X™[YžOH]H\ØÈ‚ˆ]HYH]H‘Ù[Ü™ÚXHÙ\šXÙH\™XHX\Ý]O‚ˆ\ØÈYH™\ØÈHÙ[Ü™ÚXHÚ[ÝY]HÚ]H™Y›Ý]HÛÛ›™XÝ[™È™YHÙ\šXÙHX\šÙ\œËÙ\ØÏ‚ˆ]H“NMHÈŽHˆˆLˆLÈLˆNMHLHLHLHLHLLˆLŒLˆLŽHLHMMMˆMˆMLHŒMMÈLÍMNLÍMŒˆLÍˆMMHMMˆMMˆMMLMMMMMˆMˆMMˆMÈMLÈMˆMMˆLÎHMMLÍˆMNLÌˆMMÈLˆMŒLŒÈMNHLMÈMŒÈLMHMŒÈLLMŽHLMŒNMMÈHMÈÍÈMÈˆLÌÈNLÌLLŒHÈLNÍÈLLÌˆLHŒÈLHŒLNHLˆLÈMÈÈˆˆš[HˆÌNLXLNˆÝ›ÚÙOHˆÌNLXLNˆÝ›ÚÙK]ÚYHŒKˆˆÝ›ÚÙK[[™Z›Ú[Hœ›Ý[™‹Ï‚ˆ]H“MÍˆÍˆÍˆÍÈLÌHLLLÍˆš[H››Û™HˆÝ›ÚÙOHˆÙ˜ˆˆÝ›ÚÙK]ÚYHŒËŒˆˆÝ›ÚÙK[[™XØ\HœÜ]X\™HˆÝ›ÚÙK[[™Z›Ú[H›Z]\ˆ‹Ï‚ˆÈš[HˆÙÙŒYMˆˆÝ›ÚÙOHˆÙ˜ˆˆÝ›ÚÙK]ÚYHŒÈ‚ˆÚ\˜ÛHÞHÍˆˆÞOHŒÍˆˆH‹‹Ï‚ˆÚ\˜ÛHÞHŒLÌHˆÞOHŒLˆH‹‹Ï‚ˆÚ\˜ÛHÞHŒLˆÞOHŒLÍˆH‹‹Ï‚ˆÙÏ‚ˆÈš[HˆÙ™™ˆ‚ˆÚ\˜ÛHÞHÍˆˆÞOHŒÍˆˆHŒ‹Ž‹Ï‚ˆÚ\˜ÛHÞHŒLÌHˆÞOHŒLˆHŒ‹Ž‹Ï‚ˆÚ\˜ÛHÞHŒLˆÞOHŒLÍˆHŒ‹Ž‹Ï‚ˆÙÏ‚ÜÝ™Ï‚
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 185 170" role="img" aria-labelledby="title desc">
+  <title id="title">Georgia service area map</title>
+  <desc id="desc">A Georgia silhouette with a red route connecting three service markers.</desc>
+  <path d="M95 3 L28 9 L46 82 L52 93 L52 98 L55 101 L51 105 L51 112 L48 120 L52 129 L51 140 L54 142 L56 151 L60 157 L134 158 L134 162 L136 164 L141 164 L142 156 L140 150 L154 148 L156 146 L156 143 L153 142 L156 139 L154 136 L158 132 L157 126 L160 123 L159 117 L163 115 L163 110 L169 104 L160 98 L157 85 L147 77 L143 66 L133 58 L130 50 L121 43 L118 37 L110 32 L105 23 L105 20 L100 19 L92 13 L97 3 Z" fill="#191a18" stroke="#191a18" stroke-width="1.6" stroke-linejoin="round"/>
+  <path d="M76 36 L76 77 L131 108 L100 134" fill="none" stroke="#d4242b" stroke-width="3.2" stroke-linecap="square" stroke-linejoin="miter"/>
+  <g fill="#f7f1e6" stroke="#d4242b" stroke-width="3">
+    <circle cx="76" cy="36" r="6.4"/>
+    <circle cx="131" cy="108" r="6.4"/>
+    <circle cx="100" cy="134" r="6.4"/>
+  </g>
+  <g fill="#fff">
+    <circle cx="76" cy="36" r="2.8"/>
+    <circle cx="131" cy="108" r="2.8"/>
+    <circle cx="100" cy="134" r="2.8"/>
+  </g>
+</svg>

@@ -1,1 +1,28 @@
-şŠmş&yºŞÃòân¶«Ëñè™æë{Ü™ßì…éez{ì†X§{_?n)ÿ¦Ã©z¶­Š‰ç¢Ú^®h­µçHÈÙ[Ü™ÚXHXÚÈ	ˆØYÛY\YÙB‚H™\ÜÛœÚ]™KÛÛ™\œÚ[Û‹Y›Øİ\ÙYÛY\YÙH›ÜˆÙ[Ü™ÚXHXÚÈ	ˆØY[İš[™È	ˆİÜ˜YÙKˆZ[Ú]™^šœËXÛÛ\]X›H™XXİš[™^\TØÜš\[™İ\İÛHÔÔË‚‚ˆÈÈ[ˆØØ[B‚˜˜\Ú›œH[œİ[›œH[ˆ]‚˜‚“Ü[ˆ‹ËÛØØ[ÜİŒÌ‚‚ˆÈÈ›ÙXİ[ÛˆZ[‚˜˜\Ú›œH[ˆZ[˜‚ˆÈÈİ\œ™[İ]\Â‚‹HÛÛ\]H™\ÜÛœÚ]™HÛY\YÙB‹HÛXÚË]ËXØ[ÛÛ™\œÚ[Ûˆ]‹H[\˜Xİ]™H\İ[X]H›Ü›\ÈÚ]˜[Y][Ûˆ[™İXØÙ\ÜÈİ]\Â‹H™\İÜ™Y›ÙXİ[Ûˆ[XYÙ\B‹H›Ú™Xİ\ÚYÛˆ[™[\[Y[][Ûˆ^X›ÛÚÈ[ˆÒUWÔVP“ÓÒË›Y‚•H›Ü›H[\™˜XÙ\È\™HÛÛ\]K]XY[]™\Hİ[™YYÈÈ™HÛÛ›™XİYÈHÚÜÙ[ˆ[XZ[›İšY\ˆÜˆÔ“H™Y›Ü™H][˜Ú‚
+# Georgia Pack & Load Homepage
+
+A responsive, conversion-focused homepage for Georgia Pack & Load Moving & Storage. Built with Next.js-compatible React, vinext, TypeScript, and custom CSS.
+
+## Run locally
+
+```bash
+npm install
+npm run dev
+```
+
+Open `http://localhost:3000`.
+
+## Production build
+
+```bash
+npm run build
+```
+
+## Current status
+
+- Complete responsive homepage
+- Click-to-call conversion path
+- Interactive estimate forms with validation and success states
+- Restored HD production imagery
+- Project design and implementation playbook in `SITE_PLAYBOOK.md`
+
+The form interfaces are complete, but lead delivery still needs to be connected to the chosen email provider or CRM before launch.
